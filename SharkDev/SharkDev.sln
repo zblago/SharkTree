@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharkDev.MVC", "..\SharkDev.MVC\SharkDev.MVC.csproj", "{DB616BA3-8AAC-48B6-8582-A3E33F398FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharkDev.Web.Controls", "..\SharkDev.Web.Controls\SharkDev.Web.Controls.csproj", "{AED0935A-BD6F-4EF7-8710-89EDBB6DB501}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptsAndCss", "ScriptsAndCss", "{D7BD3034-1B24-41B9-98F7-6C12B61B931F}"
+	ProjectSection(SolutionItems) = preProject
+		..\ScriptsAndCss\SharkDev.TreeView.css = ..\ScriptsAndCss\SharkDev.TreeView.css
+		..\ScriptsAndCss\SharkDev.treeView.js = ..\ScriptsAndCss\SharkDev.treeView.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB616BA3-8AAC-48B6-8582-A3E33F398FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB616BA3-8AAC-48B6-8582-A3E33F398FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB616BA3-8AAC-48B6-8582-A3E33F398FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB616BA3-8AAC-48B6-8582-A3E33F398FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED0935A-BD6F-4EF7-8710-89EDBB6DB501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED0935A-BD6F-4EF7-8710-89EDBB6DB501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED0935A-BD6F-4EF7-8710-89EDBB6DB501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED0935A-BD6F-4EF7-8710-89EDBB6DB501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
