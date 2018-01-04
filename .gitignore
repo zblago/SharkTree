@@ -1,0 +1,7 @@
+/packages
+*/bin
+*/release
+*.dll
+*.pdb
+*/obj
+.vs/
