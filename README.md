@@ -7,7 +7,7 @@
 Two files, css and js with a code that runs on the client side
 
 - ### SharkDev ###
-Only solution file is there.
+Only solution file is here.
 
 - ### SharkDev.Web.Controls ###
 Here is all logic - sorting, creating HTML with all attributes.
